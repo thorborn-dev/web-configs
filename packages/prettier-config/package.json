@@ -1,0 +1,14 @@
+{
+  "name": "@thorborn/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared prettier configuration",
+  "main": "index.json",
+  "keywords": [],
+  "author": "thorborn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorborn-dev/web-configs.git",
+    "directory": "packages/prettier-config"
+  }
+}
