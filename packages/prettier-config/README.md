@@ -18,4 +18,4 @@ thorborn's prettier config comes bundled in `@thorborn/prettier-config`. To enab
 "prettier": "@thorborn/prettier-config"
 ```
 
-Any previous prettier configs (e.g. `.prettierrc`) should be removed in favor of this config.
+Any previous prettier config (e.g. `.prettierrc`) should be removed in favor of this config.
