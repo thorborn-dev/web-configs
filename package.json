@@ -4,5 +4,6 @@
   "license": "MIT",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "prettier": "./packages/prettier-config"
 }
