@@ -10,9 +10,10 @@ This repo is managed as a monorepo that is composed of many npm packages. Each p
 
 ### Package Index
 
-| Name                                        | NPM                                                                                                                              |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [prettier-config](packages/prettier-config) | [![npm version](https://badge.fury.io/js/@thorborn%2Fprettier-config.svg)](https://badge.fury.io/js/@thorborn%2Fprettier-config) |
+| Name                                                | NPM                                                                                                                                      |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [browserslist-config](packages/browserslist-config) | [![npm version](https://badge.fury.io/js/@thorborn%2Fbrowserslist-config.svg)](https://badge.fury.io/js/@thorborn%2Fbrowserslist-config) |
+| [prettier-config](packages/prettier-config)         | [![npm version](https://badge.fury.io/js/@thorborn%2Fprettier-config.svg)](https://badge.fury.io/js/@thorborn%2Fprettier-config)         |
 
 ## Releasing
 

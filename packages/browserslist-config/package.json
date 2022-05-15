@@ -1,0 +1,14 @@
+{
+  "name": "@thorborn/browserslist-config",
+  "version": "1.0.0",
+  "description": "Shared browserslist configuration",
+  "main": "index.js",
+  "keywords": [],
+  "author": "thorborn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorborn-dev/web-configs.git",
+    "directory": "packages/browserslist-config"
+  }
+}
