@@ -1,0 +1,8 @@
+{
+  "name": "web-configs",
+  "author": "thorborn",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
