@@ -1,0 +1,24 @@
+{
+  "name": "@thorborn/eslint-plugin",
+  "version": "1.0.0",
+  "description": "Shared ESLint rules and configurations",
+  "main": "index.js",
+  "keywords": [],
+  "author": "thorborn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorborn-dev/web-configs.git",
+    "directory": "packages/eslint-plugin"
+  },
+  "peerDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsdoc": "^39.2.9",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0"
+  },
+  "dependencies": {
+    "confusing-browser-globals": "^1.0.11"
+  }
+}

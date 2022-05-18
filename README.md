@@ -13,6 +13,7 @@ This repo is managed as a monorepo that is composed of many npm packages. Each p
 | Name                                                | NPM                                                                                                                                      |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | [browserslist-config](packages/browserslist-config) | [![npm version](https://badge.fury.io/js/@thorborn%2Fbrowserslist-config.svg)](https://badge.fury.io/js/@thorborn%2Fbrowserslist-config) |
+| [eslint-plugin](packages/eslint-plugin)             | [![npm version](https://badge.fury.io/js/@thorborn%2Feslint-plugin.svg)](https://badge.fury.io/js/@thorborn%2Feslint-plugin)             |
 | [prettier-config](packages/prettier-config)         | [![npm version](https://badge.fury.io/js/@thorborn%2Fprettier-config.svg)](https://badge.fury.io/js/@thorborn%2Fprettier-config)         |
 
 ## Releasing
